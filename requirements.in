@@ -6,5 +6,5 @@ scikit-learn
 jupyterlab
 xgboost
 shap
-astroquery
+astroquery>=0.4.11.dev10199
 requests
