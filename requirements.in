@@ -7,3 +7,4 @@ jupyterlab
 xgboost
 shap
 astroquery
+requests

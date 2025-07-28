@@ -299,6 +299,7 @@ referencing==0.36.2
     #   jupyter-events
 requests==2.32.4
     # via
+    #   -r requirements.in
     #   astroquery
     #   jupyterlab-server
     #   pyvo

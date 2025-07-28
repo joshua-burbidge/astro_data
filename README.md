@@ -2,9 +2,16 @@
 
 #### Dependencies
 
-Install all dependencies: `pip install -r requirements.txt`
+Install all dependencies: 
+```bash
+pip install -r requirements.txt
+```
 
-To install new dependencies, add them to requirements.in, then run `pip-compile -v requirements.in` and then `pip install -r requirements.txt`
+To install new dependencies, add them to requirements.in, then run 
+
+```bash
+pip-compile -v requirements.in && pip install -r requirements.txt
+``` 
 
 #### Data
 
